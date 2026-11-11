@@ -15,7 +15,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 | Project | What it is | Built with |
 |---|---|---|
 | [Nexolume](https://github.com/Lololegeek/nexolume) | Offline office suite: Writer, Sheets and Slides · [site](https://lololegeek.github.io/nexolume-site/en/) | Rust, C#, .NET 10, Avalonia |
-| [ClipForge](https://github.com/Lololegeek/ClipForge) | Game replay capture and clip editor, GPL-3.0 | C++20, Qt Quick, libobs, FFmpeg |
+| [ClipForge](https://github.com/Lololegeek/ClipForge) | Game replay capture and clip editor, GPL-3.0 · [site](https://lololegeek.github.io/ClipForge/) | C++20, Qt Quick, libobs, FFmpeg |
 | LCut | Video editor | C++20, Qt Quick, MLT, FFmpeg |
 | [ProjectHub](https://github.com/Lololegeek/ProjectHub) | Project library and launcher | C#, WinUI 3 |
 | NovaExplorer | File manager | C#, WinUI 3 |
@@ -41,7 +41,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 |---|---|---|
 | [UMCE](https://github.com/Lololegeek/UMCE) | Server compute and optimization engine | Java, Fabric |
 | [LoloMC GUI](https://github.com/Lololegeek/LoloMC-GUI) | Loader-neutral GUI library with XML, CSS and a visual editor | Java, TypeScript |
-| [Lolo Minecraft Launcher](https://github.com/Lololegeek/lolo-minecraft-launcher) | Game launcher | C#, .NET |
+| [Lolo Minecraft Launcher](https://github.com/Lololegeek/lolo-minecraft-launcher) | Vanilla, Fabric, Forge and NeoForge launcher · [site](https://lolo-minecraft.vercel.app) | C#, .NET |
 | Valoria RP | Roleplay server economy, launcher, backend and site | Java, Fabric, Electron, TypeScript, Prisma |
 
 ## Tools and systems
@@ -57,7 +57,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 | MyAI | Language model from scratch | Python, PyTorch |
 | LoloModelsAI | Image to 3D model | Python, FastAPI, TripoSR, Next.js |
 | LoloLangage | Programming language and IDE | JavaScript |
-| AssetFlow | Asset tool with API, site and bots | TypeScript, Lua |
+| AssetFlow | Roblox asset reuploader for animations, sounds and meshes, with API and bots · [site](https://assetflow-website.com) | TypeScript, Lua |
 | [LoloServer](https://github.com/Lololegeek/LoloServer) | Container manager | Python |
 
 ## Web apps
@@ -67,8 +67,10 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 | LoloAI | AI chat with tools | Next.js, AI SDK, Prisma |
 | Tuner.org | TV player | Next.js, hls.js |
 | LuaMaster | Learning platform | Next.js, Fumadocs, Prisma |
+| LoloSchool | Coding courses with an AI assistant · [site](https://lolo-school-code.vercel.app) | Next.js |
+| Lixx Officiel | Link hub for a content creator · [site](https://lixx-officiel.vercel.app) | Next.js |
 | [LoloLinks](https://github.com/Lololegeek/LoloLinks) | Link shortener | Node.js, Express, SQLite |
-| [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation | TypeScript |
+| [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation · [play](https://lololegeek.github.io/Life-simulator/) | TypeScript |
 
 Names without a link live in private repositories.
 
