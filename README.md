@@ -31,7 +31,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 |---|---|---|
 | Server Tycoon | Management game: from one rack in a bedroom to a data centre | Godot 4, GDScript |
 | COPIE ÇA! | Party game | Rust, Godot 4 |
-| Allô Magouille | Narrative game | Godot 4, C# |
+| Allô Magouille | Game | Godot 4, C# |
 | FrenchWord | Multiplayer word game | TypeScript, Express, WebSocket |
 | Nova City RP | Garry's Mod DarkRP server | Lua |
 
@@ -68,7 +68,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 | Tuner.org | TV player | Next.js, hls.js |
 | LuaMaster | Learning platform | Next.js, Fumadocs, Prisma |
 | [LoloLinks](https://github.com/Lololegeek/LoloLinks) | Link shortener | Node.js, Express, SQLite |
-| [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation in the browser | TypeScript |
+| [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation | TypeScript |
 
 Names without a link live in private repositories.
 
