@@ -16,8 +16,17 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 |---|---|---|
 | [Nexolume](https://github.com/Lololegeek/nexolume) | Offline office suite: Writer, Sheets and Slides · [site](https://lololegeek.github.io/nexolume-site/en/) | Rust, C#, .NET 10, Avalonia |
 | [ClipForge](https://github.com/Lololegeek/ClipForge) | Game replay capture and clip editor, GPL-3.0 · [site](https://lololegeek.github.io/ClipForge/) | C++20, Qt Quick, libobs, FFmpeg |
+| LCut | Video editor | C++20, Qt Quick, MLT, FFmpeg |
 | [ProjectHub](https://github.com/Lololegeek/ProjectHub) | Project library and launcher | C#, WinUI 3 |
 | [GogolCrosshairs](https://github.com/Lololegeek/gogolcrosshairs) | Crosshair overlay | Electron |
+| NovaExplorer | File manager | C#, WinUI 3 |
+
+## Games
+
+| Project | What it is | Built with |
+|---|---|---|
+| Server Tycoon | Management game: from one rack in a bedroom to a data centre | Godot 4, GDScript |
+| Nova City RP | Garry's Mod DarkRP server | Lua |
 
 ## Minecraft
 
@@ -48,7 +57,7 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 | [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation · [play](https://lololegeek.github.io/Life-simulator/) | TypeScript |
 | [LoloLinks](https://github.com/Lololegeek/LoloLinks) | Link shortener | Node.js, Express, SQLite |
 
-Names without a link are private repositories.
+Names without a link are private or not published yet.
 
 ## Stack
 
@@ -56,5 +65,5 @@ Names without a link are private repositories.
 **Desktop** Qt Quick · Avalonia · WinUI 3 · Electron  
 **Web** React · Next.js · Tailwind · Express · Prisma · WebSocket  
 **Games and mods** Godot 4 · Fabric · Roblox (Rojo)  
-**Media** FFmpeg · libobs  
+**Media** FFmpeg · libobs · MLT  
 **Ops** Docker · Linux (Fedora bootc) · GitHub Actions
