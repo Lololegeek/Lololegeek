@@ -16,24 +16,8 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 |---|---|---|
 | [Nexolume](https://github.com/Lololegeek/nexolume) | Offline office suite: Writer, Sheets and Slides · [site](https://lololegeek.github.io/nexolume-site/en/) | Rust, C#, .NET 10, Avalonia |
 | [ClipForge](https://github.com/Lololegeek/ClipForge) | Game replay capture and clip editor, GPL-3.0 · [site](https://lololegeek.github.io/ClipForge/) | C++20, Qt Quick, libobs, FFmpeg |
-| LCut | Video editor | C++20, Qt Quick, MLT, FFmpeg |
 | [ProjectHub](https://github.com/Lololegeek/ProjectHub) | Project library and launcher | C#, WinUI 3 |
-| NovaExplorer | File manager | C#, WinUI 3 |
-| Basic Pitch Live | Guitar to MIDI in real time | Rust, Tauri, React |
-| LoloRGB | Lighting control | Rust, Tauri, React |
 | [GogolCrosshairs](https://github.com/Lololegeek/gogolcrosshairs) | Crosshair overlay | Electron |
-| LoloProductivity | Productivity suite | C#, WPF, Python |
-| [Gogol Mager](https://github.com/Lololegeek/GogolMager) | Web browser | C#, WPF, CEF |
-
-## Games
-
-| Project | What it is | Built with |
-|---|---|---|
-| Server Tycoon | Management game: from one rack in a bedroom to a data centre | Godot 4, GDScript |
-| COPIE ÇA! | Party game | Rust, Godot 4 |
-| Allô Magouille | Game | Godot 4, C# |
-| FrenchWord | Multiplayer word game | TypeScript, Express, WebSocket |
-| Nova City RP | Garry's Mod DarkRP server | Lua |
 
 ## Minecraft
 
@@ -50,39 +34,27 @@ Desktop apps, games and the tools between. Most of it runs offline, on the machi
 |---|---|---|
 | [Live Server Speed Edition](https://github.com/Lololegeek/live-server-speed-edition) | VS Code extension · [Marketplace](https://marketplace.visualstudio.com/items?itemName=Lololegeek.live-server-speed-edition) | TypeScript |
 | [pulse-os](https://github.com/Lololegeek/pulse-os) | Gaming Linux distro | Fedora bootc, Gamescope, C++ |
-| GF2D | Rhythm-platformer editor | C, C++, raylib |
-| WinSwiftUI | SwiftUI for Windows | Swift |
-| GreenVita PS3 | Cloud gaming client for the PS3 | C, PS3 SDK |
-| vision-mcp | MCP server | TypeScript |
-| MyAI | Language model from scratch | Python, PyTorch |
-| LoloModelsAI | Image to 3D model | Python, FastAPI, TripoSR, Next.js |
-| LoloLangage | Programming language and IDE | JavaScript |
 | AssetFlow | Roblox asset reuploader for animations, sounds and meshes, with API and bots · [site](https://assetflow-website.com) | TypeScript, Lua |
+| GreenVita PS3 | Cloud gaming client for the PS3 | C, PS3 SDK |
 | [LoloServer](https://github.com/Lololegeek/LoloServer) | Container manager | Python |
+| [rbxlx-to-rojo](https://github.com/Lololegeek/rbxlx-to-rojo) (fork) | Patched to read Roblox 2024–2026 place formats | Rust |
 
-## Web apps
+## Web
 
 | Project | What it is | Built with |
 |---|---|---|
 | LoloAI | AI chat with tools | Next.js, AI SDK, Prisma |
-| Tuner.org | TV player | Next.js, hls.js |
-| LuaMaster | Learning platform | Next.js, Fumadocs, Prisma |
-| LoloSchool | Coding courses with an AI assistant · [site](https://lolo-school-code.vercel.app) | Next.js |
-| Lixx Officiel | Link hub for a content creator · [site](https://lixx-officiel.vercel.app) | Next.js |
-| [LoloLinks](https://github.com/Lololegeek/LoloLinks) | Link shortener | Node.js, Express, SQLite |
+| FrenchWord | Multiplayer word game | TypeScript, Express, WebSocket |
 | [Life Simulator](https://github.com/Lololegeek/Life-simulator) | Life simulation · [play](https://lololegeek.github.io/Life-simulator/) | TypeScript |
+| [LoloLinks](https://github.com/Lololegeek/LoloLinks) | Link shortener | Node.js, Express, SQLite |
 
-Names without a link live in private repositories.
-
-## Contributing to
-
-[SavageWindRecomp](https://github.com/Lololegeek/SavageWindRecomp) (static recompilation, C/C++) · [Parler](https://github.com/Lololegeek/Parler) (offline speech-to-text, Rust) · [rbxlx-to-rojo](https://github.com/Lololegeek/rbxlx-to-rojo) (Roblox to Rojo, Rust) · [jarvis-OS](https://github.com/Lololegeek/jarvis-OS)
+Names without a link are private repositories.
 
 ## Stack
 
-**Languages** TypeScript · JavaScript · C# · C++ · C · Rust · Python · Java · GDScript · Swift · Lua · Kotlin · Dart  
-**Desktop** Qt Quick · Avalonia · WinUI 3 · WPF · Tauri · Electron  
+**Languages** TypeScript · JavaScript · C# · C++ · C · Rust · Python · Java · GDScript · Swift · Lua  
+**Desktop** Qt Quick · Avalonia · WinUI 3 · Electron  
 **Web** React · Next.js · Tailwind · Express · Prisma · WebSocket  
-**Games** Godot 4 · raylib · Fabric · Roblox (Rojo)  
-**Media and AI** FFmpeg · libobs · MLT · PyTorch · FastAPI  
+**Games and mods** Godot 4 · Fabric · Roblox (Rojo)  
+**Media** FFmpeg · libobs  
 **Ops** Docker · Linux (Fedora bootc) · GitHub Actions
